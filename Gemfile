@@ -37,3 +37,5 @@ group :development, :test do
 end
 
 gem 'sprockets', github: "rails/sprockets", branch: "schneems/fix-metadata-relative-3.x"
+
+gem 'tzinfo-data'
